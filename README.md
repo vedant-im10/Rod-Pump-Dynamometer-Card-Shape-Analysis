@@ -1,4 +1,4 @@
-# 📊 Dynamometer Card Shape Analysis
+# 📊 Rod Pump Dynamometer Card Shape Analysis
 
 This project involves analyzing and clustering rod pump dynamometer cards to identify shape patterns indicative of specific mechanical behaviors, such as the 'freezing' pattern. We utilized techniques like Principal Component Analysis (PCA) and KMeans clustering to explore card shape similarities and outliers.
 
